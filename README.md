@@ -1,5 +1,5 @@
 <div align="center">
-<h1>InstantAnything</h1>
+<h1>InstantPose</h1>
 </div>
 
 
